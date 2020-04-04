@@ -1,0 +1,6 @@
+C:\Users\Karth\source\repos\Restaurant\Restaurant\bin\Release\Restaurant.exe.config
+C:\Users\Karth\source\repos\Restaurant\Restaurant\bin\Release\Restaurant.exe
+C:\Users\Karth\source\repos\Restaurant\Restaurant\bin\Release\Restaurant.pdb
+C:\Users\Karth\source\repos\Restaurant\Restaurant\obj\Release\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\Karth\source\repos\Restaurant\Restaurant\obj\Release\Restaurant.exe
+C:\Users\Karth\source\repos\Restaurant\Restaurant\obj\Release\Restaurant.pdb
